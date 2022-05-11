@@ -14,4 +14,4 @@ Javascript and HTML/CSS
 
 # deployed website
 
-https://papagamer2020.github.io/my-password-generator/te
+https://papagamer2020.github.io/my-password-generator/
